@@ -166,7 +166,7 @@ function renderResults(results, keyword) {
           display: inline-block;
           padding: 6px 14px;
           background: #268bd2;
-          color: #089ec3;
+          color: #002b36;
           text-decoration: none;
           border-radius: 6px;
           font-size: 14px;
