@@ -189,7 +189,7 @@ function renderResults(results, keyword) {
     style.textContent = `
       #search-results mark {
         background: #b58900;
-        color: #79e0f9;
+        color: #002b36;
         padding: 2px 4px;
         border-radius: 3px;
         font-weight: 600;
